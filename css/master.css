@@ -1,0 +1,113 @@
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    margin-bottom: 50px;
+  }
+
+img.right-align {
+        display: block;
+        margin-left: 500px;
+        margin-right: 40px;
+        margin-top:50px;
+        margin-bottom: 50px; }
+
+  img.left-align {
+        display: block;
+        margin-left: 20px;
+        margin-right: 80px;
+        margin-top:50px;
+        margin-bottom: 50px; }
+
+ul{
+padding-left: 0;
+}
+
+.menu {
+  color: white;
+  margin-bottom: 5rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1,7em;
+  font-weight: 900;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5rem;
+}
+
+.FIRST{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.SECOND{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.THIRD{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.FOURTH{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.FIFTH{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.SIXTH{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.SEVENTH{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.EIGHT{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.NINE{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.TEN{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.ELEVEN{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.TWELVE{
+  column-count:2;
+  column-gap: 50px;
+  margin-top:60px;
+}
+
+.menu li {
+  background: ##000000;
+}
